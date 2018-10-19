@@ -13,5 +13,5 @@ int main
 {
 	dictionary play;
 
-	return 0;
+	return (0);
 }
